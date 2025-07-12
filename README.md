@@ -6,6 +6,7 @@ This machine learning project predicts the price range of mobile phones based on
 ## Dataset
 
 mobile_phone_pricing.zip - contains dataset.csv 
+
 Target variable: price_range (0 = Low Cost, 1 = Medium Cost, 2 = High Cost, 3 = Very High Cost)
 
 
@@ -19,6 +20,7 @@ Target variable: price_range (0 = Low Cost, 1 = Medium Cost, 2 = High Cost, 3 = 
 
 
 ## Libraries Used
+
 pandas
 
 numpy
